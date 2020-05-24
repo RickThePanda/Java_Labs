@@ -1,0 +1,14 @@
+daily-rate=228
+indices=1;2;3;4
+account01=Nikolay
+transport01=16
+days01=4
+account02=Vladimir
+transport02=11
+days02=5
+account03=Roman
+transport04=22
+days04=2
+account04=Dmitriy
+transport08=28
+days08=7
