@@ -1,0 +1,11 @@
+10
+gomelskoe 5.0 true
+minskoe 15.0 false
+belakt 7.0 true
+rogachevskoe 5.5 true
+grodnenskoe 12.5 false
+babushkinakrynka 3.0 true
+moyaslavita 4.5 true
+prostokvashino 3.5 true
+moscowskoe 6.0 true
+piterskoe 9.0 false
